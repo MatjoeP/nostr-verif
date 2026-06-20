@@ -1,1 +1,1 @@
-include: [“.well-known/nostr.json”]
+include: [“.well-known”]
